@@ -1,0 +1,39 @@
+_repo: Laugh-and-Live_12887
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Creel, George
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '38782'
+    url: http://www.gutenberg.org/2009/agents/38782
+creator:
+  author:
+    agent_name: Fairbanks, Douglas
+    aliases:
+    - Ullman, D. Elton Thomas (Douglas Elton Thomas)
+    - Ullman, Douglas Elton Thomas
+    - Ulman, Douglas Elton
+    birthdate: 1883
+    deathdate: 1939
+    gutenberg_agent_id: '4694'
+    url: http://www.gutenberg.org/2009/agents/4694
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_Fairbanks,_Sr.
+description: 'Includes: "A ''Close-Up'' of Douglas Fairbanks, by George Creel, reprinted
+  from Everybody''s magazine..."'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12887'
+  lccn: '17013235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Happiness'
+- !lcc 'BJ'
+- GITenberg
+title: Laugh and Live
+url: http://www.gutenberg.org/ebooks/12887
