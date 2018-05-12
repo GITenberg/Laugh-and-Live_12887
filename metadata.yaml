@@ -1,5 +1,5 @@
 _repo: Laugh-and-Live_12887
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Creel, George
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '38782'
     url: http://www.gutenberg.org/2009/agents/38782
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fairbanks, Douglas
@@ -21,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Douglas_Fairbanks,_Sr.
 description: 'Includes: "A ''Close-Up'' of Douglas Fairbanks, by George Creel, reprinted
   from Everybody''s magazine..."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12887#Laugh-and-Live
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-07-12'
 gutenberg_type: Text
